@@ -7,9 +7,9 @@
 ## comment: 한줄설명
 ## group: 소속 [leader | backend | data | frontend | app]
 
-- id: 834588
-  name: 개발요정
+- id: 1
+  name: Ihag
   emoji: 🧚‍♀️
-  comment: 모바일 앱 개발 및 팀 내 활력소를 담당하고 있는 개발요정입니다. 잘 부탁드립니다!
-  group: app
+  comment: 어쩔어쩔요
+  group: leader
   drop: true

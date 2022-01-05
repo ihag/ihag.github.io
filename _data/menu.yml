@@ -1,11 +1,11 @@
 - id: about
-  label: 개발팀 소개
+  label: IHAG
 
-- id: tech
-  label: 테크노트
+- id: dl
+  label: 딥러닝
 
-- id: life
-  label: 소소한 이야기
+- id: web
+  label: 웹
 
-- id: recruit
-  label: 채용 정보
+- id: chemeng
+  label: 화학공학
